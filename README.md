@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Alejandro Jaramillo</h1>
 
 <p align="center">
-  Software Engineer (Backend)🌐 | Passionate about technology, automation, and IoT projects 🔧 
+  Software Engineer (Backend) 🌐 | Passionate about technology, automation, and IoT projects 🔧 
 </p>
 
 ---
