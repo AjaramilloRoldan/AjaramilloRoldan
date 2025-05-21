@@ -30,10 +30,22 @@
 
 ### 📌 Featured Projects
 
-- 🔒 RFID Access Control System using Flask and MySQL
-- 📊 Admin dashboard with Bootstrap for user and reservation management
-- 🤖 Automation with Arduino and sensors
-- 📡 Satellite connectivity project in the Colombian Amazon
+### 🔒 RFID-Based Access Control System  
+I built an **RFID-based** system using **ESP8266** and **Flask** to **automate access logging in institutional settings**. It replaced manual records with real-time monitoring and admin control. The system reduced unauthorized access by **75%** and handled over **1,000 monthly logs efficiently**.  
+**Technologies used:** Python, Flask, MySQL, HTML5, CSS3, Bootstrap, RFID, ESP8266
+
+### 📊 Admin Dashboard for User and Reservation Management  
+**Developed a web dashboard to manage users, space reservations, and access records**. It supports role-based control and dynamic tables with filters. This tool improved reservation efficiency by **70%** and simplified administrative tasks.  
+**Technologies used:** Flask, Bootstrap, Jinja2, HTML5, CSS3, JavaScript
+
+### 🤖 Automation with Arduino and Sensors  
+Created smart systems using Arduino and sensors **(DHT11, PIR)** to **automate lights and fans based on environment conditions**. Reduced manual operations by **46%** and demonstrated energy-saving potential.  
+**Technologies used:** Arduino IDE, C/C++, DHT11, PIR, relays
+
+### 📡 Satellite Connectivity in the Colombian Amazon  
+**Designed a connectivity plan for rural Amazon communities** using **satellite link analysis**. Calculated elevation and azimuth from Leticia, proposing viable internet access for **500+ people** in isolated regions.  
+**Technologies used:** Python, Google Earth, satellite link analysis, GIS tools
+
 
 ---
 
