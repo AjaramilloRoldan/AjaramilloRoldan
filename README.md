@@ -51,7 +51,7 @@ Created smart systems using Arduino and sensors **(DHT11, PIR)** to **automate l
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ajaramilloroldan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaramilloroldan/)  
 📧 Email: jaramilloalejandro790@gmail.com
 
 ---
