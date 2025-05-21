@@ -1,8 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Alejandro Jaramillo</h1>
 
 <p align="center">
-  Systems and Telecommunications Engineering Student 🎓<br>
-  Web Development Technician 🌐 | Passionate about technology, automation, and IoT projects 🔧
+  Software Engineer (Backend)🌐 | Passionate about technology, automation, and IoT projects 🔧 
 </p>
 
 ---
